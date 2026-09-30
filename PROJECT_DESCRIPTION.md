@@ -116,7 +116,7 @@ Safe distance:
 ```text
 0.5 m
 ```
-
+f 
 When an obstacle is detected, forward motion is stopped and the robot turns toward the side with more available space.
 
 ## 8. Finite State Machine
