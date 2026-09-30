@@ -1,0 +1,5 @@
+differential_drive_controller:
+  ros__parameters:
+    wheel_radius: 0.075
+    wheel_separation: 0.4
+    cmd_timeout: 0.5
